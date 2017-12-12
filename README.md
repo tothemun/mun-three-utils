@@ -17,4 +17,10 @@ ES5
 This utility provides commonly used calculations for three.js.
 
 ## `rand(min, max, ease)`
+Returns a random float.
 
+| Parameter | Type | Description |
+|:---|:---|:---|
+| min | `Float` | The minimum float value. |
+| max | `Float` | The maximum float value. |
+| ease | `Function` | Easing function to apply to the random value |
