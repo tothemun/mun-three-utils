@@ -210,3 +210,229 @@ Returns an eased float value based on inOutCubic.
 | b | `Number` | Begining time. |
 | c | `Number` | Change in value. |
 | d | `Number` | Duration. |
+
+## `inQuart(t, b, c, d)`
+Returns an eased float value based on inQuart.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `outQuart(t, b, c, d)`
+Returns an eased float value based on outQuart.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inOutQuart(t, b, c, d)`
+Returns an eased float value based on inOutQuart.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+## `inQuint(t, b, c, d)`
+Returns an eased float value based on inQuint.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `outQuint(t, b, c, d)`
+Returns an eased float value based on outQuint.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inOutQuint(t, b, c, d)`
+Returns an eased float value based on inOutQuint.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+## `inSine(t, b, c, d)`
+Returns an eased float value based on inSine.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `outSine(t, b, c, d)`
+Returns an eased float value based on outSine.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inOutSine(t, b, c, d)`
+Returns an eased float value based on inOutSine.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+## `inExpo(t, b, c, d)`
+Returns an eased float value based on inExpo.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `outExpo(t, b, c, d)`
+Returns an eased float value based on outExpo.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+## `inCirc(t, b, c, d)`
+Returns an eased float value based on inCirc.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `outCirc(t, b, c, d)`
+Returns an eased float value based on outCirc.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inOutCirc(t, b, c, d)`
+Returns an eased float value based on inOutCirc.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inOutExpo(t, b, c, d)`
+Returns an eased float value based on inOutExpo.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+## `inElastic(t, b, c, d)`
+Returns an eased float value based on inElastic.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `outElastic(t, b, c, d)`
+Returns an eased float value based on outElastic.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inOutElastic(t, b, c, d)`
+Returns an eased float value based on inOutElastic.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inBack(t, b, c, d)`
+Returns an eased float value based on inBack.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `outBack(t, b, c, d)`
+Returns an eased float value based on outBack.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inOutBack(t, b, c, d)`
+Returns an eased float value based on inOutBack.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
