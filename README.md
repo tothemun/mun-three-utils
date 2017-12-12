@@ -13,6 +13,11 @@ ES5
 
 `var THREEUTILS = require(mun-three-utils)`
 
+## Table of Contents 
+
+-[Calc](#calc)
+-[Ease](#ease)
+
 # Calc
 This utility provides commonly used calculations for three.js.
 
