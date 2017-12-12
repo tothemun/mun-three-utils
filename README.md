@@ -6,9 +6,11 @@ This is a collection of utilitites we use at MUN when working with three.js. Man
 `npm install --save mun-three-utils`
 
 ES6
+
 `import * as THREEUTILS from 'mun-three-utils`
 
 ES5
+
 `var THREEUTILS = require(mun-three-utils)`
 
 # Calc
@@ -135,3 +137,71 @@ Returns the visible width in your scene at a given distance from a PerspectiveCa
 |:---|:---|:---|
 | depth | `Number` | Depth of current plane. |
 | camera | `Object` | PerspectiveCamera object. |
+
+# Ease
+
+A collection of commonly used easing functions.
+
+## `inQuad(t, b, c, d)`
+Returns an eased float value based on inQuad.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+## `outQuad(t, b, c, d)`
+Returns an eased float value based on outQuad.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inOutQuad(t, b, c, d)`
+Returns an eased float value based on inOutQuad.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inCubic(t, b, c, d)`
+Returns an eased float value based on inCubic.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `outCubic(t, b, c, d)`
+Returns an eased float value based on outCubic.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
+
+
+## `inOutCubic(t, b, c, d)`
+Returns an eased float value based on inOutCubic.
+
+| Parameter | Type | Description |
+|:---|:---|:---|
+| t | `Number` | Current time. |
+| b | `Number` | Begining time. |
+| c | `Number` | Change in value. |
+| d | `Number` | Duration. |
