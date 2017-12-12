@@ -16,5 +16,5 @@ ES5
 ## Calc
 This utility provides commonly used calculations for three.js.
 
-`rand(min, max, ease)`
+## `rand(min, max, ease)`
 
