@@ -1,0 +1,30 @@
+{
+  "name": "mun-three-utils",
+  "version": "1.0.0",
+  "description": "Various utilities we use for three.js at MUN",
+  "main": "./distribution/index.js",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "scripts": {
+    "build": "babel source --presets babel-preset-es2015 --out-dir distribution",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tothemun/mun-three-utils.git"
+  },
+  "keywords": [
+    "threejs"
+  ],
+  "author": "Jonathan Blair <jon@tothemun.com> (http://tothemun.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tothemun/mun-three-utils/issues"
+  },
+  "homepage": "https://github.com/tothemun/mun-three-utils#readme",
+  "dependencies": {
+    "three": "^0.88.0"
+  }
+}
