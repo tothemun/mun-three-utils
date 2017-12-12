@@ -14,7 +14,8 @@ ES5
 # Calc
 This utility provides commonly used calculations for three.js.
 
-- [rand](#rand)
+- [rand](#randmin-max-ease)
+- [randInt](#randint-min-max-ease)
 
 ## `rand(min, max, ease)`
 Returns a random float between two values, with the option of easing bias.
