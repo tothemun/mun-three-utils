@@ -15,8 +15,8 @@ ES5
 
 ## Table of Contents 
 
--[Calc](#calc)
--[Ease](#ease)
+- [Calc](#calc)
+- [Ease](#ease)
 
 # Calc
 This utility provides commonly used calculations for three.js.
