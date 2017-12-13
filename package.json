@@ -1,6 +1,6 @@
 {
   "name": "mun-three-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Various utilities we use for three.js at MUN",
   "main": "./distribution/index.js",
   "devDependencies": {
