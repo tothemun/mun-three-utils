@@ -7,7 +7,7 @@ This is a collection of utilitites we use at MUN when working with three.js. Man
 
 ES6
 
-`import * as THREEUTILS from 'mun-three-utils`
+`import * as THREEUTILS from 'mun-three-utils'`
 
 ES5
 
